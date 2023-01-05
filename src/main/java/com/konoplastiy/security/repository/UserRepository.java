@@ -1,5 +1,6 @@
-package com.konoplastiy.security.user;
+package com.konoplastiy.security.repository;
 
+import com.konoplastiy.security.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
